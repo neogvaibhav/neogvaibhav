@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neogvaibhav
-- 👀 I’m interested in web as a while 
-- 🌱 I’m currently learning react and making projects on it
+- 👀 I’m interested in web as whole but more inclined towards frontend web dev
+- 🌱 I’m currently learning react and making projects on top of it.
 - 📫 you can reach me at vaibhavsingh5520@gmai.com
 
 <!---
